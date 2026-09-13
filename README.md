@@ -12,9 +12,9 @@
 
 I am an aspiring Data Analyst building practical skills in data analysis, visualization, and business intelligence.
 
-My goal is to become a **job-ready Data Analyst within 6–8 months** by focusing heavily on hands-on practice and real-world projects.
+My goal is to become a **job-ready Data Analyst** by focusing heavily on hands-on practice and real-world projects.
 
-I am currently building projects using **Excel, SQL, Power BI, and Python** and documenting my learning journey on GitHub.
+I am currently building projects using **Excel, SQL, Power BI, Tableau and Python** and documenting my learning journey on GitHub.
 
 ---
 
